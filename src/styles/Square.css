@@ -1,0 +1,64 @@
+.Square {
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  cursor: pointer;
+  padding: 0;
+  background-color: rgb(180, 180, 180);
+}
+
+.Square:active {
+  padding: 2px;
+  border: 1px solid rgb(120, 120, 120);
+}
+
+.untoggled {
+  border-style: outset;
+}
+
+.toggled {
+  padding: 2px;
+  border: 1px solid rgb(120, 120, 120);
+}
+
+.questioned {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+}
+
+.bomb.clicked {
+  background-color: red;
+}
+
+.one.toggled{
+  color: blue;
+}
+
+.two.toggled {
+  color: green;
+}
+
+.three.toggled {
+  color: red;
+}
+
+.four.toggled {
+  color: darkblue;
+}
+
+.five.toggled {
+  color: maroon;
+}
+
+.six.toggled {
+  color: teal;
+}
+
+.seven.toggled {
+  color: black;
+}
+
+.eight.toggled {
+  color: grey;
+}

@@ -1,0 +1,10 @@
+.remaining {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.remaining .bomb {
+  width: 32px;
+  height: 32px;
+}
