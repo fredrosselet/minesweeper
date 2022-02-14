@@ -36,7 +36,7 @@ npm run build (development mode)
 ```sh
 npm start
 ```
-### Run tests (oprional)
+### Run tests (optional)
 ```sh
 npm test
 ```
